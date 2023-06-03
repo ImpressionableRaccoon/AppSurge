@@ -1,0 +1,6 @@
+framework module Pods_AppSurge {
+  umbrella header "Pods-AppSurge-umbrella.h"
+
+  export *
+  module * { export * }
+}
